@@ -1,0 +1,8 @@
+{
+"site_name":"dupont",
+"site_title": "DuPont- sAMM Portal",
+"database_name": "dupontdb",
+"deployment_host":"139.59.4.175",
+"deployment_port":"8001",
+"python_path":"/usr/local/lib/python2.7/dist-packages"
+}
